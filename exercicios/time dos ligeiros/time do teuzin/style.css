@@ -2,7 +2,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@200&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 body {
-    background-color: rgb(124, 59, 59);
+    height: 98vh;
+    background-image: url(../thumb.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div.quadrado{
+    margin: 5px;
+    display: inline-block;
+    padding: 10px;
+    width: 300px;
+    height: 370px;
 }
 
 p {

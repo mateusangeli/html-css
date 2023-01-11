@@ -3,7 +3,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 body {
-    background-color: rgb(129, 129, 129);
+    height: 98vh;
+    background-image: url(../thumb.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 p {
     font-size: 18px;
